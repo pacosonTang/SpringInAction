@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+span.error {
+    color: red;
+}
+
+div.errors {
+	background-color: #ffcccc;
+	border: 2px solid red;
+}
